@@ -1,0 +1,27 @@
+[33mcommit aef6c94d781db0195623a5aed308af4660ceaaa8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: JuanaMorinigo <lissetmorinigo24@gmail.com>
+Date:   Fri Mar 18 13:34:14 2022 -0300
+
+    cambio a version 1
+
+[1mdiff --git a/Ejercicio1.html b/Ejercicio1.html[m
+[1mindex 0d7773d..4dd38dd 100644[m
+[1m--- a/Ejercicio1.html[m
+[1m+++ b/Ejercicio1.html[m
+[36m@@ -11,7 +11,7 @@[m
+         <ul>[m
+           <li><a href="#">Inicio</a></li>[m
+           <li><a href="#">Sobre nosotros</a></li>[m
+[31m-          <li><a href="#">Contacto</a></li>[m
+[32m+[m[32m          <li><a href="#">Contacto web</a></li>[m
+         </ul>[m
+       </nav>[m
+       <h1>Software Company</h1>[m
+[1mdiff --git a/img1.jpg b/img1.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7baed3e[m
+Binary files /dev/null and b/img1.jpg differ
+[1mdiff --git a/img2.jpg b/img2.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..172d819[m
+Binary files /dev/null and b/img2.jpg differ
